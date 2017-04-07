@@ -1,0 +1,4 @@
+com.sg.a_test.MainActivity -> com.sg.a_test.MainActivity:
+    void onCreate(android.os.Bundle) -> onCreate
+com.sg.a_test.Person -> a:
+    java.lang.String name -> a
